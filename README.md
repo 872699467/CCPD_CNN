@@ -1,3 +1,4 @@
 # CCPD_CNN
 License Plate Recognition
-the weight file: link:https://pan.baidu.com/s/1q1uOgu3FkqCcuhk-JOY7kw password:g4vn
+链接：https://pan.baidu.com/s/1F_rTFN6cKCh-boqTBzV_vg 
+提取码：y2y0 
